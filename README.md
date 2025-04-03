@@ -1,4 +1,5 @@
-- Hey yo! I'm @Luskaluz
+- Hey! I'm @Luskaluz
 - 👀 I’m interested in Web Development and a little curious about UX and UI.
-- 🌱 I learned c#, but I’m currently learning HTML, CSS and JS! Focusing on frontend development.
+- 🌱 I learned c#, HTML/CSS/JS and Kotlin Focusing on frontend development.
+- Now creating a big project!!!
 - 📫 You can reach me at ls20954@gmail.com 😉
